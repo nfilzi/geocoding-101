@@ -58,4 +58,4 @@ group :test do
   gem 'webdrivers'
 end
 
-gem 'geocoder'
+gem 'geocoder', "~> 1.6" # "MAJEURE.MINEURE.PATCH"
